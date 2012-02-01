@@ -1,4 +1,4 @@
-M3U playlists
+M3U Bundler
 =============
 
 This project has perl files which can produce playlist of a directory
